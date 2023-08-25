@@ -4,7 +4,7 @@
 ## CS 61B: Data Structures
 This is my implementation of a tile-based world exploration game based on a 2D renderer that has a variety of features. The basic random world tile generation was separately implemented in _WorldGenerator_ and all other auxiliary features were included in _AllUtils_. To run the game, initiate _Main_ class with no input string and visualize the game.
 
-**Feature list: **
+**Feature list:**
 1. During the game, click (R) anytime and (B) if you try to get back!
 2. (0) Turn on a random light
 3. (1) Turn off a random light
