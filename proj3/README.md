@@ -1,11 +1,5 @@
-# Build Your Own World Design Document
+# Build Your Own World
 
-**Partner 1:**
-
-**Partner 2:**
-
-## Classes and Data Structures
-
-## Algorithms
-
-## Persistence
+**Mia Wang**
+## CS 61B: Data Structures
+ds
